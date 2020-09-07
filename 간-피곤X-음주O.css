@@ -1,0 +1,17 @@
+.u-section-1 .u-sheet-1 {min-height: 500px}
+.u-section-1 .u-image-1 {width: 50px; height: 15px; margin: 40px auto 60px}
+.u-section-1 .u-text-1 {width: auto; margin: 10px auto 60px}
+.u-section-1 .u-btn-1 {background-image: none; font-size: 1rem; margin: 30px auto 0}
+.u-section-1 .u-btn-2 {background-image: none; font-size: 1rem; margin: 30px auto 60px}
+.u-section-1 .u-btn-3 {background-image: none; font-size: 1rem; margin: 50px 60px 0 auto}
+.u-section-1 .u-btn-4 {background-image: none; font-size: 0.875rem; margin: 30px auto 60px; padding: 10px 53px 10px 51px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-btn-3 {margin-right: 0} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 556px}
+.u-section-1 .u-image-1 {margin-bottom: 0}
+.u-section-1 .u-text-1 {margin-top: 19px; margin-bottom: 0}
+.u-section-1 .u-btn-1 {font-size: 0.875rem; margin-top: 31px; padding: 23px 4px}
+.u-section-1 .u-btn-2 {font-size: 0.875rem; margin-top: 29px; margin-bottom: 0; padding: 17px 14px}
+.u-section-1 .u-btn-3 {font-size: 0.875rem; margin-top: 29px; margin-right: auto; padding: 10px 74px 10px 73px}
+.u-section-1 .u-btn-4 {margin-top: 29px} }
